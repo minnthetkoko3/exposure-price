@@ -10,7 +10,7 @@ const PricePages = () => {
       </header>
       <section className=" container mx-auto">
         <p className=" text-white text-center font-bold  text-[20px] md:text-3xl my-6 tracking-wider md:my-12  md:leading-12 md:tracking-wider">
-          Pre Wedding Services
+          Weddings & Events Services
         </p>
         <div className=" flex  justify-center">
           <CarouselCard  />
@@ -18,7 +18,7 @@ const PricePages = () => {
       </section>
       <section className=" container mx-auto">
         <p className=" text-white text-center font-bold  text-[20px] md:text-3xl my-6 tracking-wider md:my-12  md:leading-12 md:tracking-wider">
-          Wedding Services
+          Pre Wedding Services
         </p>
         <div className=" flex  justify-center">
           <WeddingCarousealCard />

@@ -11,6 +11,10 @@ import E3 from "@/assets/images/EXPOSURE_2025_Event_Packages/0003.png";
 import E4 from "@/assets/images/EXPOSURE_2025_Event_Packages/0004.png";
 import E5 from "@/assets/images/EXPOSURE_2025_Event_Packages/0005.png";
 import E6 from "@/assets/images/EXPOSURE_2025_Event_Packages/0006.png";
+import E7 from "@/assets/images/EXPOSURE_2025_Event_Packages/0007.png";
+import E8 from "@/assets/images/EXPOSURE_2025_Event_Packages/0008.png";
+
+
 
 
 
@@ -26,6 +30,10 @@ import E6 from "@/assets/images/EXPOSURE_2025_Event_Packages/0006.png";
   { id: "uuid5", images: E5 },
 
   { id: "uuid6", images: E6 },
+  { id: "uuid6", images: E7 },
+  { id: "uuid6", images: E8 },
+
+
 ];
 
 
