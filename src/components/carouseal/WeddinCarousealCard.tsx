@@ -6,7 +6,6 @@
 //   CarouselPrevious,
 // } from "@/components/ui/carousel";
 
-// ✅ Correct
 import {
   Carousel,
   CarouselContent,
