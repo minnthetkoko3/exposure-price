@@ -17,11 +17,15 @@ function Footer() {
 
             <div className=" text-lg leading-8">
               <h3 className="text-[#FFFFFF]">Contact Us</h3>
-              <h3 className="text-[#D9D9D9]">+95 9123 456 789</h3>
+              <h3 className="text-[#D9D9D9]">+95 9779 000 112</h3>
               <h3 className="text-[#D9D9D9]">
-                exposureweddingstudiomm@gmail.com
+                +95 9779 000 113
               </h3>
-              <h3 className="text-[#D9D9D9]">No.123 Park.Yangon</h3>
+              <h3 className="text-[#D9D9D9]">+95 9779 000 114</h3>
+              <h3 className="text-[#D9D9D9]">
+                exposureweddingstudio@gmail.com
+              </h3>
+
             </div>
 
             <div className="flex flex-row justify-evenly md:justify-baseline md:flex-col text-[#FFFFFF]  md:space-y-4 md:ml-38 lg:ml-14">
